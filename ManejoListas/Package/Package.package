@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b9666471-3f93-4101-8bfe-6d1bb9de8620" solutionId="b9666471-3f93-4101-8bfe-6d1bb9de8620" resetWebServer="false" sharePointProductVersion="15.0" name="ManejoListas" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="d4cd7d24-1f39-4dc0-b57b-c3c4803a57c7" />
+  </features>
+</package>
